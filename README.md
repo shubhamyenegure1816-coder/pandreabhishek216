@@ -1,4 +1,4 @@
-# <p align="center">ABHISHEK KRASHNA PANDRE</p>
+# <p align="center"></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Learner;Building+Real+Projects;Code.+Build.+Repeat." />
